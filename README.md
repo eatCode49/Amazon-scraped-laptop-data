@@ -40,7 +40,9 @@ All data is saved in a **clean CSV file** — ready for Excel, Google Sheets, or
 2. Install the requirements:
    ```bash
    pip install requests beautifulsoup4 pandas
-3. get the repo and run 2
+3. get the repo and run this 2 files:
+   1. main.py
+   2. crawler.py
 
   💼 Let's Work Together
 If you need:
