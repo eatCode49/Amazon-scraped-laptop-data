@@ -40,6 +40,7 @@ All data is saved in a **clean CSV file** — ready for Excel, Google Sheets, or
 2. Install the requirements:
    ```bash
    pip install requests beautifulsoup4 pandas
+3. get the repo and run 2
 
   💼 Let's Work Together
 If you need:
