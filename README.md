@@ -39,7 +39,7 @@ All data is saved in a **clean CSV file** — ready for Excel, Google Sheets, or
 1. Clone this repo or request the `.py` file from me
 2. Install the requirements:
    ```bash
-   pip install requests beautifulsoup4 pandas
+   pip install requests beautifulsoup4 pandas selenium
 3. get the repo and run this 2 files:
    1. main.py
    2. crawler.py
